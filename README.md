@@ -2,7 +2,7 @@
 A complete method to predict order satisfaction using the GAIN framework as imputation method. The GAIN methods also can be used seperately to impute other datasets. 
 The zip-file contains all the necessary functions. The information about all the files is given below: 
 
-# In the zip-file many files are created. The information of the files is as follows:
+In the zip-file many files are created. The information of the files is as follows:
 0.  datapreprocessing: R-file which concatenates the datasets of multiple years and transforms some variables.
 1.  dataprocessing: file that clears data and prepares it for the file CrossRoads
 2.  CrossRoads: File which splits the data for the model tree and GAIN imputation. 
